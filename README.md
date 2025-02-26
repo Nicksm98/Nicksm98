@@ -9,7 +9,7 @@ I've been learning to code for the past few months now. I started off with basic
 * 🌍  I'm based in United States
 * 🖥️  See my portfolio at [https://eportfolio-beige.vercel.app/](http://eportfolio-beige.vercel.app/)
 * ✉️  You can contact me at [nsm9825@gmail.com](mailto:nsm9825@gmail.com)
-* 🧠  I'm learning I'm learning TailwindCSS, tRPC, and ShadcnUI skills
+* 🧠  I'm learning TailwindCSS, tRPC, and ShadcnUI skills
 
 ### Skills
 
