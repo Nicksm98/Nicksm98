@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I've been learning to code for the past few months now. I started off with basic HTML and CSS coding and moved on to JavaScript and React and have excelled in my progress towards becoming a frontend developer.
+I've been coding for the past year, I started off with basic HTML and CSS coding and moved on to JavaScript and React and have excelled in my progress towards becoming a frontend developer. Now I'm working towards becoming a fullstack developer.
 
 *   🌍  I'm based in the United States
 *   🖥️  See my portfolio at [https://eportfolio-beige.vercel.app/](http://eportfolio-beige.vercel.app/)
