@@ -7,7 +7,7 @@ Software Developer
 Hello, I have been coding for the past year and half to two years. I started off with basic HTML & CSS and have progressed to learning backend languages as well. I am comfortable working with React, Next.js, Node.js and will continue to broaden my langauge stack.
 
 * 🌍  I'm based in Rocky Point, New York
-* 🖥️  See my portfolio at [My Website.](eportfolio-beige.vercel.app)
+* 🖥️  See my portfolio at [My Website.](https://eportfolio-beige.vercel.app)
 * ✉️  You can contact me at [Nsm9825@gmail.com](mailto:Nsm9825@gmail.com)
 * 🚀  I'm currently working on personal projects to expand my skills with coding. I recently just made a couple of different card games that are currently accessible on my portfolio!
 
